@@ -4,7 +4,7 @@ using System.Text;
 using Microsoft.EntityFrameworkCore;
 using Subdlaba.Models;
 
-namespace Subdlaba
+namespace Subdlaba 
 {
     public class TaskTrackerDatabase : DbContext
     {

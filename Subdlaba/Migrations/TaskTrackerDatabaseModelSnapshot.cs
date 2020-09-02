@@ -8,7 +8,7 @@ using Subdlaba;
 
 namespace Subdlaba.Migrations
 {
-    [DbContext(typeof(TaskTrackerDatabase))]
+    [DbContext(typeof(TaskTrackerDatabase))] 
     partial class TaskTrackerDatabaseModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

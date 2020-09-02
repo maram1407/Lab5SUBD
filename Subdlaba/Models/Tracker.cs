@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Subdlaba.Models
 {
-    public class Tracker
+    public class Tracker 
     {
         public int Id { get; set; }
 

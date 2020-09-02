@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Subdlaba.Models
 {
     public class Developer
-    {
+    { 
         public int Id { get; set; }
 
         [Required]

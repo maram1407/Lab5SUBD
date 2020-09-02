@@ -4,7 +4,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Linq;
 
-
 namespace Subdlaba.Interface
 {
     public interface ILogic<T>

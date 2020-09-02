@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 
 namespace Subdlaba.Models
-{
+{ 
     public class DeveloperTracker
     {
         public int Id { get; set; }

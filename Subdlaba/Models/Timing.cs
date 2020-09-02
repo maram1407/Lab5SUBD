@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Subdlaba.Models
 {
-    public class Timing
+    public class Timing 
     {
         public int Id { get; set; }
 

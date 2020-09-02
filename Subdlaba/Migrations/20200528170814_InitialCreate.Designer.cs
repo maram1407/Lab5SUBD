@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Subdlaba;
 
 namespace Subdlaba.Migrations
-{
+{ 
     [DbContext(typeof(TaskTrackerDatabase))]
     [Migration("20200528170814_InitialCreate")]
     partial class InitialCreate

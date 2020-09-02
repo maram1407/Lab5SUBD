@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 
 namespace Subdlaba.Models
-{
+{ 
     public class Customer
     {
         public int Id { get; set; }
