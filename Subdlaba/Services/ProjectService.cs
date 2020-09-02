@@ -9,6 +9,7 @@ using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
 
 namespace Subdlaba.Services
 {
+
     public class ProjectService : ILogic<Project>
     {
         private static TaskTrackerDatabase db = Program.db;
