@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Subdlaba.Services
 {
+
     public class DeveloperService : ILogic<Developer>
     {
         private static TaskTrackerDatabase db = Program.db;
