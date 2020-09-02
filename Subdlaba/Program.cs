@@ -5,7 +5,7 @@ using System.Diagnostics;
 namespace Subdlaba
 {
     public class Program
-    {
+    { 
         public static readonly TaskTrackerDatabase db = new TaskTrackerDatabase();
         private static CustomerService customerService;
         private static DeveloperService developerService;
